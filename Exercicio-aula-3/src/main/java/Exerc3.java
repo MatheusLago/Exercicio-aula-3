@@ -29,5 +29,6 @@ else
         {
             System.out.printf("Reprovado");
         }
+        entradanpa.close();
     }
 }

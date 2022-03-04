@@ -16,6 +16,8 @@ public class Exerc2 {
 
         System.out.println("Total de Zumbis: " + total);
         System.out.println("Média de Zumbis: " + total/3);
+
+        valorTeclado.close();
     }
 
 }
